@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BuscadorDeCep/static/css/main.fcb7a7ef.css",
+    "main.js": "/BuscadorDeCep/static/js/main.adc38679.js",
+    "index.html": "/BuscadorDeCep/index.html",
+    "main.fcb7a7ef.css.map": "/BuscadorDeCep/static/css/main.fcb7a7ef.css.map",
+    "main.adc38679.js.map": "/BuscadorDeCep/static/js/main.adc38679.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcb7a7ef.css",
+    "static/js/main.adc38679.js"
+  ]
+}
